@@ -1,3 +1,5 @@
+
+Library/
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -14,22 +16,3 @@
 
 # Ignore Assets
 
-
-
-AnnotationManager
-AssetImportState
-AssetServerCacheV3
-AssetVersioning.db
-CurrentLayout.dwlt
-EditorUserBuildSettings.asset
-EditorUserSettings.asset
-FailedAssetImports.txt
-InspectorExpandedItems.asset
-MonoManager.asset
-ScriptAssemblies
-ScriptMapper
-UnityAssemblies
-assetDatabase3
-expandedItems
-guidmapper
-metadata
